@@ -1,0 +1,12 @@
+Host debian
+  HostName 127.0.0.1
+  User mg
+  Port 9022
+
+Host 39.108.135.217
+  HostName  39.108.135.217
+  User root
+  IdentityFile /home/mg/.ssh/id_rsa
+
+
+
